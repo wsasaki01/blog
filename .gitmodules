@@ -1,0 +1,4 @@
+[submodule "wsasakiblog/public"]
+	path = wsasakiblog/public
+	url = https://github.com/wsasaki01/wsasaki01.github.io.git
+	branch = main
